@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bullion — Privacy Notice</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Space+Mono&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background-color: #0D0B08;
+      color: #F2ECD9;
+      font-family: 'Playfair Display', serif;
+      min-height: 100vh;
+      padding: 60px 24px;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .seal {
+      width: 80px;
+      height: 80px;
+      margin: 0 auto 40px;
+      background: #5C1A1A;
+      border-radius: 50%;
+      border: 2px solid #C9A84C;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      color: #C9A84C;
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      color: #C9A84C;
+      text-align: center;
+      letter-spacing: 0.02em;
+      margin-bottom: 12px;
+    }
+
+    .tagline {
+      text-align: center;
+      font-style: italic;
+      color: #C9A84C;
+      opacity: 0.7;
+      font-size: 0.95rem;
+      letter-spacing: 0.15em;
+      margin-bottom: 16px;
+    }
+
+    .divider {
+      border: none;
+      border-top: 1px solid #C9A84C;
+      opacity: 0.3;
+      margin: 32px auto;
+      width: 200px;
+    }
+
+    .subtitle {
+      text-align: center;
+      font-style: italic;
+      color: #F2ECD9;
+      opacity: 0.6;
+      font-size: 0.9rem;
+      margin-bottom: 48px;
+      font-family: 'Space Mono', monospace;
+      letter-spacing: 0.08em;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      color: #C9A84C;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin: 48px 0 16px;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.9;
+      color: #F2ECD9;
+      opacity: 0.85;
+      margin-bottom: 16px;
+    }
+
+    .mono {
+      font-family: 'Space Mono', monospace;
+      font-size: 0.85rem;
+      color: #C9A84C;
+      opacity: 0.7;
+    }
+
+    .footer {
+      margin-top: 80px;
+      text-align: center;
+      font-family: 'Space Mono', monospace;
+      font-size: 0.75rem;
+      color: #F2ECD9;
+      opacity: 0.3;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+
+    .footer-divider {
+      border: none;
+      border-top: 1px solid #C9A84C;
+      opacity: 0.15;
+      margin: 40px auto 32px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="seal">B</div>
+
+    <h1>Bullion</h1>
+    <p class="tagline">— OLD MONEY · NEW GAMES —</p>
+    <hr class="divider"/>
+    <p class="subtitle">PRIVACY NOTICE · IN CONFIDENCE · IN PERPETUITY</p>
+
+    <p>The Club takes the matter of discretion with the same gravity it applies to all things. What follows is a frank and complete account of what is held, what is yours, and what is never discussed.</p>
+
+    <h2>I. No Personal Data Collected</h2>
+    <p>The Club does not collect, store, or process any personal data about its members. No names. No email addresses. No location data. No device identifiers. No behavioural tracking of any kind.</p>
+    <p>We have no interest in who you are. Only in how you conduct yourself.</p>
+
+    <h2>II. Verified Sightings — Your Uploads</h2>
+    <p>Members may submit photographic or video evidence of completed directives to Verified Sightings. These uploads are stored within the app and visible to fellow members for the purpose of receiving verdicts.</p>
+    <p>Your submissions remain entirely your own. You may remove any upload at any time, at your sole discretion, with no further record retained. The Club does not archive, reproduce, or distribute your evidence beyond the walls of the Club itself.</p>
+
+    <h2>III. Camera & Photo Library</h2>
+    <p>Bullion requests access to your camera and photo library solely to facilitate the submission of evidence to Verified Sightings. This access is used for no other purpose whatsoever.</p>
+    <p>You may revoke this access at any time via your device settings. The Club will note your discretion.</p>
+
+    <h2>IV. Payments</h2>
+    <p>Bullion is available for a one-time upfront purchase via the Apple App Store. The price varies by country and region in accordance with Apple's pricing tiers and local currency conversions.</p>
+    <p>All payments are processed entirely by Apple. No financial information of any kind passes through the Club's hands. There are no in-app purchases. There are no subscriptions. No further payment will ever be requested.</p>
+    <p>The matter is concluded at the door.</p>
+
+    <h2>V. What We Do Not Do</h2>
+    <p>The Club does not sell data. It does not share data with advertisers or third parties for commercial purposes. It does not employ tracking technologies. It does not profile its members.</p>
+    <p>We find such practices beneath us.</p>
+
+    <h2>VI. Third Parties</h2>
+    <p>Bullion uses the Claude API by Anthropic solely to generate the daily directive. No member data is transmitted in this process. The directive is generated independently and issued to all members simultaneously.</p>
+    <p>Apple processes payments and may collect data in accordance with their own privacy policy, which we encourage you to review at your leisure.</p>
+
+    <h2>VII. Children</h2>
+    <p>The Club does not knowingly admit members under the age of 17. The directives, while entirely innocent, are issued to adults of standing.</p>
+
+    <h2>VIII. Changes to This Notice</h2>
+    <p>Should this notice require amendment, the updated version will be published here with the date of revision duly noted. Members are encouraged to review it periodically.</p>
+
+    <h2>IX. Contact</h2>
+    <p>Matters of a private nature may be directed to the Club secretary at:</p>
+    <p class="mono">privacy@bullionapp.com</p>
+    <p>We respond to all legitimate enquiries with the promptness the matter deserves.</p>
+
+    <hr class="footer-divider"/>
+    <p class="footer">In Confidence · In Perpetuity · Est. 2025</p>
+
+  </div>
+</body>
+</html>
